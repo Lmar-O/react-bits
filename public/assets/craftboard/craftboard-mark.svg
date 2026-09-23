@@ -8,4 +8,5 @@
   </defs>
   <rect x="6" y="10" width="52" height="32" rx="9" mask="url(#cb-banner-cut)"/>
   <circle cx="32" cy="42" r="12"/>
+  <rect x="48" y="46" width="10" height="5" rx="2.5"/>
 </svg>
