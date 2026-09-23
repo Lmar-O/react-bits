@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 264 64" fill="currentColor" role="img" aria-label="Craftboard">
+  <defs>
+    <mask id="cb-logo-banner-cut">
+      <rect width="64" height="64" fill="#fff"/>
+      <circle cx="22" cy="42" r="15" fill="#000"/>
+    </mask>
+  </defs>
+  <rect x="6" y="10" width="52" height="32" rx="9" mask="url(#cb-logo-banner-cut)"/>
+  <circle cx="22" cy="42" r="12"/>
+  <text x="72" y="43" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="600" letter-spacing="-0.8">craftboard</text>
+</svg>
